@@ -1,4 +1,4 @@
-# My First Repository — C# Console App
+# factorial — C# Console App
 
 This project is a simple program for **calculating the factorial of the first 10 numbers**. 
 The goal of this project is to practice the basics of C#, working with loops and mathematical operations.
